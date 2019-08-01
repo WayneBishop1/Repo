@@ -1,4 +1,4 @@
-<h1><img src="CydiaIcon.png"><br>Idiot Software©<h1>
+<h1><img src="CydiaIcon.png"><br>Idiot Software©</h1>
 
 <h1>My Repo List I Have On My Cydia.</br>In No Particular Order.</h1>
 
@@ -59,7 +59,7 @@ Repo.incendo.ws = http://repo.incendo.ws/
 Chariz Repo = http://repo.chariz.io/
 
 
-My Tweak List I Have Installed.</br>In Alphabetical Order.
+<h1>My Tweak List I Have Installed.</br>In Alphabetical Order.</h1>
 
 69 Animated Clock: 1.0.1
 
