@@ -7,11 +7,7 @@
 <h1><b><center>My Repo List I Have On My Cydia.</br>In No Particular Order.</center></b></h1>
 
 
-   <div class="container">
-    <div class="well">
-     <table width="100%">
-      <tr>
-       <td colspan="2" style="background-color:#EEEEEE;">
+        <td colspan="2" style="background-color:#EEEEEE;">
 	   	<p><span class="text-primary"><b>Bingner/Elucubratus Repo.</span></b>
 		<a class="btn btn-sm btn-default" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://apt.bingner.com/">Add to Cydia</a>
 		<p><span class="text-primary"><b>Zodtt&Macciti Repo.</span></b>
