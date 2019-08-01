@@ -1,52 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Idiot Software</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-</head>
-<body>
 
-<div class="container">
-	<h1><center><img src="CydiaIcon.png"></center><br><center><b> Idiot Software©</b></center><h1>
-</div>
+<h1><center><img src="CydiaIcon.png"></center><br><center><b> Idiot Software©</b></center><h1>
 
-<script language="javascript">
-<!--
-// PLEASE DO NOT REMOVE THIS. THANKS
-// FIND GREATE JAVASCRIPT CODES AT http://www.wallpaperama.com
-var state = 'hidden';
-
-function showhide(layer_ref) {
-
-if (state == 'visible') {
-state = 'hidden';
-}
-else {
-state = 'visible';
-}
-if (document.all) { //IS IE 4 or 5 (or 6 beta)
-eval( "document.all." + layer_ref + ".style.visibility = state");
-}
-if (document.layers) { //IS NETSCAPE 4 or below
-document.layers[layer_ref].visibility = state;
-}
-if (document.getElementById && !document.all) {
-maxwell_smart = document.getElementById(layer_ref);
-maxwell_smart.style.visibility = state;
-}
-}
-//-->
-
-</script>
-<p><center><h3><a href="javascript://" onclick="showhide('agent99');">Repo List Click Here</br>Scroll Down For Tweak List.</a></h3></center></p>
-
-  <div id="agent99" style="text; visibility:hidden;">
-
-
-	<b><center>My Repo List I Have On My Cydia.</br>In No Particular Order.</center></b>
+<h1><b><center>My Repo List I Have On My Cydia.</br>In No Particular Order.</center></b></h1>
 
 
    <div class="container">
