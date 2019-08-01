@@ -7,7 +7,7 @@
 <h1><b><center>My Repo List I Have On My Cydia.</br>In No Particular Order.</center></b></h1>
 
 
-        Bingner/Elucubratus Repo. href="cydia://url/https://cydia.saurik.com/api/share#?source=https://apt.bingner.com/">Add to Cydia</a>
+        Bingner/Elucubratus Repo. = https://apt.bingner.com/ </br>
 		<p><span class="text-primary"><b>Zodtt&Macciti Repo.</span></b>
 		<a class="btn btn-sm btn-default" href="cydia://url/https://cydia.saurik.com/api/share#?source=http://cydia.zodttd.com/repo/cydia/">Add to Cydia</a>
 		<p><span class="text-primary"><b>PixelOmer's Repo.</span></b>
