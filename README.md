@@ -7,14 +7,14 @@
 <h1><b><center>My Repo List I Have On My Cydia.</br>In No Particular Order.</center></b></h1>
 
 
-        Bingner/Elucubratus Repo = https://apt.bingner.com/ <br>
-		Zodtt&Macciti Repo = http://cydia.zodttd.com/repo/cydia/ <br>
-		PixelOmer's Repo = http://www.pixelomer.com/repo/ <br>
-		Rpetrich Repo = http://rpetri.ch/repo/ <br>
-		Evelyn-TNam Source = https://evelyn-ynam.yourepo.com/ <br>
-		Nullpixel Repo = https://repo.nullpixel.uk/ <br>
-		David Goldman's Repo = http://apt.golddavid.com/ <br>
-		<p><span class="text-primary"><b>Evelyn's Collection.</span></b>
+        Bingner/Elucubratus Repo = https://apt.bingner.com/
+		Zodtt&Macciti Repo = http://cydia.zodttd.com/repo/cydia/
+		PixelOmer's Repo = http://www.pixelomer.com/repo/
+		Rpetrich Repo = http://rpetri.ch/repo/
+		Evelyn-TNam Source = https://evelyn-ynam.yourepo.com/
+		Nullpixel Repo = https://repo.nullpixel.uk/
+		David Goldman's Repo = http://apt.golddavid.com/
+		Evelyn's Collection.</span></b>
 		<a class="btn btn-sm btn-default" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://evynw.github.io/">Add to Cydia</a>
 		<p><span class="text-primary"><b>TIGI Software Repo.</span></b>
 		<a class="btn btn-sm btn-default" href="cydia://url/https://cydia.saurik.com/api/share#?source=http://tigisoftware.com/cydia/">Add to Cydia</a>
