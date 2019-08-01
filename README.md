@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-
 <h1><center><img src="CydiaIcon.png"></center><br><center><b> Idiot Software©</b></center><h1>
 
 <h1><b><center>My Repo List I Have On My Cydia.</br>In No Particular Order.</center></b></h1>
