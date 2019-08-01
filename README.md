@@ -1,6 +1,6 @@
-<h1><center><img src="CydiaIcon.png"></center><br><center><b> Idiot Software©</b></center><h1>
+<h1><center><img src="CydiaIcon.png"><br>Idiot Software©</center><h1>
 
-<h1><b><center>My Repo List I Have On My Cydia.</br>In No Particular Order.</center></b></h1>
+<h1><center>My Repo List I Have On My Cydia.</br>In No Particular Order.</center></h1>
         
 		Bingner/Elucubratus Repo = [Link](https://apt.bingner.com/)
 		Zodtt&Macciti Repo = http://cydia.zodttd.com/repo/cydia/
