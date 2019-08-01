@@ -7,19 +7,13 @@
 <h1><b><center>My Repo List I Have On My Cydia.</br>In No Particular Order.</center></b></h1>
 
 
-        Bingner/Elucubratus Repo. = https://apt.bingner.com/ </br>
-		<p><span class="text-primary"><b>Zodtt&Macciti Repo.</span></b>
-		<a class="btn btn-sm btn-default" href="cydia://url/https://cydia.saurik.com/api/share#?source=http://cydia.zodttd.com/repo/cydia/">Add to Cydia</a>
-		<p><span class="text-primary"><b>PixelOmer's Repo.</span></b>
-		<a class="btn btn-sm btn-default" href="cydia://url/https://cydia.saurik.com/api/share#?source=http://www.pixelomer.com/repo/">Add to Cydia</a>
-		<p><span class="text-primary"><b>Rpetrich Repo.</span></b>
-		<a class="btn btn-sm btn-default" href="cydia://url/https://cydia.saurik.com/api/share#?source=http://rpetri.ch/repo/">Add to Cydia</a>
-		<p><span class="text-primary"><b>Evelyn-TNam Source.</span></b>
-		<a class="btn btn-sm btn-default" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://evelyn-ynam.yourepo.com/">Add to Cydia</a>
-		<p><span class="text-primary"><b>Nullpixel Repo.</span></b>
-		<a class="btn btn-sm btn-default" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://repo.nullpixel.uk/">Add to Cydia</a>
-		<p><span class="text-primary"><b>David Goldman's Repo.</span></b>
-		<a class="btn btn-sm btn-default" href="cydia://url/https://cydia.saurik.com/api/share#?source=http://apt.golddavid.com/">Add to Cydia</a>
+        Bingner/Elucubratus Repo = https://apt.bingner.com/ <br>
+		Zodtt&Macciti Repo = http://cydia.zodttd.com/repo/cydia/ <br>
+		PixelOmer's Repo = http://www.pixelomer.com/repo/ <br>
+		Rpetrich Repo = http://rpetri.ch/repo/ <br>
+		Evelyn-TNam Source = https://evelyn-ynam.yourepo.com/ <br>
+		Nullpixel Repo = https://repo.nullpixel.uk/ <br>
+		David Goldman's Repo = http://apt.golddavid.com/ <br>
 		<p><span class="text-primary"><b>Evelyn's Collection.</span></b>
 		<a class="btn btn-sm btn-default" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://evynw.github.io/">Add to Cydia</a>
 		<p><span class="text-primary"><b>TIGI Software Repo.</span></b>
