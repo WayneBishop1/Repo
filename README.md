@@ -1,35 +1,35 @@
 <h1><center><img src="CydiaIcon.png"><br>Idiot Software©</center><h1>
 
 <h1><center>My Repo List I Have On My Cydia.</br>In No Particular Order.</center></h1>
-        
-		Bingner/Elucubratus Repo = [Link](https://apt.bingner.com)
-		Zodtt&Macciti Repo = http://cydia.zodttd.com/repo/cydia/
-		PixelOmer's Repo = http://www.pixelomer.com/repo/
-		Rpetrich Repo = http://rpetri.ch/repo/
-		Evelyn-TNam Source = https://evelyn-ynam.yourepo.com/
-		Nullpixel Repo = https://repo.nullpixel.uk/
-		David Goldman's Repo = http://apt.golddavid.com/
-		Evelyn's Collection = https://evynw.github.io/
-		TIGI Software Repo = http://tigisoftware.com/cydia/
-		Packix Repo = http://repo.packix.com/
-		HackYourIphone Repo = http://repo.hackyouriphone.org/
-		JunesIphone.com Repo = http://junesiphone.com/supersecret/
-		Karen's Repo = https://cydia.angelxwind.net/
-		Samg_Is_A_Ninja Repo = https://samgisaninja.github.io/
-		Delta Repo = https://getdelta.co/
-		BigBoss Repo = http://apt.thebigboss.org/repofiles/cydia/
-		Tateu's Repo = http://tateu.net/repo/
-		Matchstic (Xen) = https://xenpublic.incendo.ws/
-		Skylerk99 Repo = http://skylerk99.github.io/
-		Dynastic Repo = https://repo.dynastic.co/
-		SparkDev Repo = https://sparkdev.me/
-		Jontelang's Repo = http://jontelang.com/repo/
-		Limneos Repo = http://limneos.net/repo/
-		CoolStar's Repo = http://coolstar.org/publicrepo/
-		Nepeta Repo = http://repo.nepeta.me/
-		Ivano Bilenchi's Repo = http://ib-soft.net/cydia/
-		Repo.incendo.ws = http://repo.incendo.ws/
-		Chariz Repo = http://repo.chariz.io/
+
+Bingner/Elucubratus Repo = https://apt.bingner.com/
+Zodtt&Macciti Repo = http://cydia.zodttd.com/repo/cydia/
+PixelOmer's Repo = http://www.pixelomer.com/repo/
+Rpetrich Repo = http://rpetri.ch/repo/
+Evelyn-TNam Source = https://evelyn-ynam.yourepo.com/
+Nullpixel Repo = https://repo.nullpixel.uk/
+David Goldman's Repo = http://apt.golddavid.com/
+Evelyn's Collection = https://evynw.github.io/
+TIGI Software Repo = http://tigisoftware.com/cydia/
+Packix Repo = http://repo.packix.com/
+HackYourIphone Repo = http://repo.hackyouriphone.org/
+JunesIphone.com Repo = http://junesiphone.com/supersecret/
+Karen's Repo = https://cydia.angelxwind.net/
+Samg_Is_A_Ninja Repo = https://samgisaninja.github.io/
+Delta Repo = https://getdelta.co/
+BigBoss Repo = http://apt.thebigboss.org/repofiles/cydia/
+Tateu's Repo = http://tateu.net/repo/
+Matchstic (Xen) = https://xenpublic.incendo.ws/
+Skylerk99 Repo = http://skylerk99.github.io/
+Dynastic Repo = https://repo.dynastic.co/
+SparkDev Repo = https://sparkdev.me/
+Jontelang's Repo = http://jontelang.com/repo/
+Limneos Repo = http://limneos.net/repo/
+CoolStar's Repo = http://coolstar.org/publicrepo/
+Nepeta Repo = http://repo.nepeta.me/
+Ivano Bilenchi's Repo = http://ib-soft.net/cydia/
+Repo.incendo.ws = http://repo.incendo.ws/
+Chariz Repo = http://repo.chariz.io/
 		
 	   </td>
          
