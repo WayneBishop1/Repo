@@ -6,7 +6,7 @@
 
 <h1><b><center>My Repo List I Have On My Cydia.</br>In No Particular Order.</center></b></h1>
         
-		Bingner/Elucubratus Repo = <a href="https://apt.bingner.com/">Link</a>
+		Bingner/Elucubratus Repo = [Link](https://apt.bingner.com/)
 		Zodtt&Macciti Repo = http://cydia.zodttd.com/repo/cydia/
 		PixelOmer's Repo = http://www.pixelomer.com/repo/
 		Rpetrich Repo = http://rpetri.ch/repo/
