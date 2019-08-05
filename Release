@@ -1,8 +1,8 @@
-Origin: Idiot Software Github
-Label: Idiot Software Github
+Origin: Idiot Software
+Label: Idiot Software Repo
 Suite: stable
-Version: 1.0
-Codename: Idiot Software Github
+Version: 1.1
+Codename: Idiot Sotware
 Architectures: iphoneos-arm
 Components: main
-Description: Idiot Software Github.
+Description: Idiot Software Repo.

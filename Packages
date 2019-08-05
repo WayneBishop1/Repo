@@ -1,40 +1,40 @@
 Package: com.waynesgoldtheme
 Name: Wayne's Gold Theme
-Version: 1.0
+Version: 1.1
 Replaces: com.waynes-gold-theme
 Architecture: iphoneos-arm
 Website: None
 Maintainer: Wayne Bishop <wazbishop@hotmail.com>
 Section: Themes (SnowBoard)
 Description: Full Theme For SnowBoard For IOS 12.2 Includeing Settings Icons. You MUST install (Dock/Fonts/Icon Effects/Icon Masks/Respring/Settings Icons/StatusBar) Extensions for SnowBoard.
-Size: 18808978
-MD5Sum: 1c1cc1aa608708767515e8803586b60f
+Size: 18809130
+MD5Sum: dee84647c4e2cf96555f34c58f0f6f97
 Filename: debs/waynesgoldtheme.deb
 
 
 Package: com.waynescleartheme
 Name: Wayne's Clear Theme
-Version: 1.0
+Version: 1.1
 Replaces: com.waynes-clear-theme
 Architecture: iphoneos-arm
 Website: None
 Maintainer: Wayne Bishop <wazbishop@hotmail.com>
 Section: Themes (SnowBoard)
 Description: Full Theme For SnowBoard For IOS 12.2 Includeing Settings Icons. You MUST install (Dock/Fonts/Icon Effects/Icon Masks/Respring/Settings Icons/StatusBar) Extensions for SnowBoard.
-Size: 7357872
-MD5Sum: 88e8dbff232e78b392f3834cff4c8d3b
+Size: 7399246
+MD5Sum: 653b922cd56b2562f563c7e32bce261c
 Filename: debs/waynescleartheme.deb
 
 
 Package: com.waynesrainbowtheme
 Name: Wayne's Rainbow Theme
-Version: 1.0
+Version: 1.1
 Replaces: com.waynes-rainbow-theme
 Architecture: iphoneos-arm
 Website: None
 Maintainer: Wayne Bishop <wazbishop@hotmail.com>
 Section: Themes (SnowBoard)
 Description: Full Theme For SnowBoard For IOS 12.2 Includeing Settings Icons. You MUST install (Dock/Fonts/Icon Effects/Icon Masks/Respring/Settings Icons/StatusBar) Extensions for SnowBoard.
-Size: 5256600
-MD5Sum: ae6f86a81cd26bd5bdcf471e345f3923
+Size: 5256622
+MD5Sum: e3c895a5de62a65906a5f896d96406c5
 Filename: debs/waynesrainbowtheme.deb
