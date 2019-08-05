@@ -24,3 +24,17 @@ Description: Full Theme For SnowBoard For IOS 12.2 Includeing Settings Icons. Yo
 Size: 7357872
 MD5Sum: 88e8dbff232e78b392f3834cff4c8d3b
 Filename: debs/waynescleartheme.deb
+
+
+Package: com.waynesrainbowtheme
+Name: Wayne's Rainbow Theme
+Version: 1.0
+Replaces: com.waynes-rainbow-theme
+Architecture: iphoneos-arm
+Website: None
+Maintainer: Wayne Bishop <wazbishop@hotmail.com>
+Section: Themes (SnowBoard)
+Description: Full Theme For SnowBoard For IOS 12.2 Includeing Settings Icons. You MUST install (Dock/Fonts/Icon Effects/Icon Masks/Respring/Settings Icons/StatusBar) Extensions for SnowBoard.
+Size: 5256600
+MD5Sum: ae6f86a81cd26bd5bdcf471e345f3923
+Filename: debs/waynesrainbowtheme.deb
