@@ -6,9 +6,9 @@ Architecture: iphoneos-arm
 Website: None
 Maintainer: Wayne Bishop <wazbishop@hotmail.com>
 Section: Themes (SnowBoard)
-Description: Full Theme For SnowBoard For IOS 12.2 Includeing Settings Icons. You MUST install (Dock/Fonts/Icon Effects/Icon Masks/Respring/Settings Icons/StatusBar) Extensions for SnowBoard.
-Size: 18809130
-MD5Sum: dee84647c4e2cf96555f34c58f0f6f97
+Description: Full Theme For SnowBoard For IOS 12.2 Includeing Settings Icons. You MUST install (Dock/Fonts/Icon Effects/Icon Masks/Respring/Settings Icons/StatusBar) Extensions for SnowBoard. If the icons for the settings do not show then try switching off (Settings Icon) extension then switch it back on and Respring.
+Size: 18193018
+MD5Sum: 85c8a494165c29b2be2222a6fa0e69cb
 Filename: debs/waynesgoldtheme.deb
 
 
@@ -20,9 +20,9 @@ Architecture: iphoneos-arm
 Website: None
 Maintainer: Wayne Bishop <wazbishop@hotmail.com>
 Section: Themes (SnowBoard)
-Description: Full Theme For SnowBoard For IOS 12.2 Includeing Settings Icons. You MUST install (Dock/Fonts/Icon Effects/Icon Masks/Respring/Settings Icons/StatusBar) Extensions for SnowBoard.
-Size: 7399246
-MD5Sum: 653b922cd56b2562f563c7e32bce261c
+Description: Full Theme For SnowBoard For IOS 12.2 Includeing Settings Icons. You MUST install (Dock/Fonts/Icon Effects/Icon Masks/Respring/Settings Icons/StatusBar) Extensions for SnowBoard. If the icons for the settings do not show then try switching off (Settings Icon) extension then switch it back on and Respring.
+Size: 7305134
+MD5Sum: 3e7de759c4ae285cd4ee5615382496e8
 Filename: debs/waynescleartheme.deb
 
 
@@ -34,7 +34,7 @@ Architecture: iphoneos-arm
 Website: None
 Maintainer: Wayne Bishop <wazbishop@hotmail.com>
 Section: Themes (SnowBoard)
-Description: Full Theme For SnowBoard For IOS 12.2 Includeing Settings Icons. You MUST install (Dock/Fonts/Icon Effects/Icon Masks/Respring/Settings Icons/StatusBar) Extensions for SnowBoard.
-Size: 5276032
-MD5Sum: 5dbfdd94516bd01eaea3c660f6fe44ac
+Description: Full Theme For SnowBoard For IOS 12.2 Includeing Settings Icons. You MUST install (Dock/Fonts/Icon Effects/Icon Masks/Respring/Settings Icons/StatusBar) Extensions for SnowBoard. If the icons for the settings do not show then try switching off (Settings Icon) extension then switch it back on and Respring.
+Size: 5224380
+MD5Sum: b4cf09d345fdac23f3a8db5439a0a2b7
 Filename: debs/waynesrainbowtheme.deb
