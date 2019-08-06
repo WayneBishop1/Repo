@@ -1,4 +1,4 @@
-Package: com.waynesgoldtheme
+Package: waynesgoldtheme
 Name: Wayne's Gold Theme
 Version: 1.1
 Replaces: com.waynes-gold-theme
@@ -12,7 +12,7 @@ MD5Sum: 85c8a494165c29b2be2222a6fa0e69cb
 Filename: debs/waynesgoldtheme.deb
 
 
-Package: com.waynescleartheme
+Package: waynescleartheme
 Name: Wayne's Clear Theme
 Version: 1.1
 Replaces: com.waynes-clear-theme
@@ -26,7 +26,7 @@ MD5Sum: 3e7de759c4ae285cd4ee5615382496e8
 Filename: debs/waynescleartheme.deb
 
 
-Package: com.waynesrainbowtheme
+Package: waynesrainbowtheme
 Name: Wayne's Rainbow Theme
 Version: 1.1
 Replaces: com.waynes-rainbow-theme
